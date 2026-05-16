@@ -1,0 +1,1 @@
+This converts RGB Values such as you in photoshop like C33F3F and converts it to hexadecimal like 00C3003F003F00FF, and vise versa. This is useful for editing tev colors

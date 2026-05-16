@@ -1,0 +1,269 @@
+MaterialInitData: 0x248 
+MaterialIndexRemapTable: 0x4c98 
+MaterialNames: 0x4d3c 
+IndirectInitData: 0x1e0 
+GXCullMode: 0x52f4 
+MaterialColor: 0x5300 
+UcArray2_ColorChannelCount: 0x5320 
+ColorChannelInfo: 0x5324 
+UcArray3_TexGenCount: 0x532c 
+TexCoordInfo: 0x5330 
+TexMatrixInfo: 0x5340 
+UsArray4_TextureIndices: 0x53f4 
+UsArray5: 0x541c 
+TevOrderInfo: 0x5420 
+GXColorS10_TevColor: 0x5434 
+GXColor2_TevKColors: 0x54c4 
+UCArray6_Tevstagenums: 0x54cc 
+TevStageInfo2: 0x54d0 
+TevSwapModeInfo: 0x5570 
+TevSwapModeTableInfo: 0x5590 
+AlphaCompInfo: 0x5594 
+BlendInfo: 0x559c 
+UcArray7_Dither: 0x55a0 
+MaterialInitData 0: 0x248 
+TexGenCount: 0x3
+ColorChannelInfo: 0x254 0 0 1 1 
+MaterialInitData 1: 0x330 
+TexGenCount: 0x1
+ColorChannelInfo: 0x33c 0 0 1 1 
+MaterialInitData 2: 0x418 
+TexGenCount: 0x1
+ColorChannelInfo: 0x424 0 0 1 1 
+MaterialInitData 3: 0x500 
+TexGenCount: 0x1
+ColorChannelInfo: 0x50c 0 0 1 1 
+MaterialInitData 4: 0x5e8 
+TexGenCount: 0x1
+ColorChannelInfo: 0x5f4 0 0 1 1 
+MaterialInitData 5: 0x6d0 
+TexGenCount: 0x1
+ColorChannelInfo: 0x6dc 0 0 1 1 
+MaterialInitData 6: 0x7b8 
+TexGenCount: 0x1
+ColorChannelInfo: 0x7c4 0 0 1 1 
+MaterialInitData 7: 0x8a0 
+TexGenCount: 0x1
+ColorChannelInfo: 0x8ac 0 0 1 1 
+MaterialInitData 8: 0x988 
+TexGenCount: 0x1
+ColorChannelInfo: 0x994 0 0 1 1 
+MaterialInitData 9: 0xa70 
+TexGenCount: 0x1
+ColorChannelInfo: 0xa7c 0 0 1 1 
+MaterialInitData 10: 0xb58 
+TexGenCount: 0x1
+ColorChannelInfo: 0xb64 0 0 1 1 
+MaterialInitData 11: 0xc40 
+TexGenCount: 0x1
+ColorChannelInfo: 0xc4c 0 0 1 1 
+MaterialInitData 12: 0xd28 
+TexGenCount: 0x1
+ColorChannelInfo: 0xd34 0 0 1 1 
+MaterialInitData 13: 0xe10 
+TexGenCount: 0x1
+ColorChannelInfo: 0xe1c 0 0 1 1 
+MaterialInitData 14: 0xef8 
+TexGenCount: 0x1
+ColorChannelInfo: 0xf04 0 0 1 1 
+MaterialInitData 15: 0xfe0 
+TexGenCount: 0x1
+ColorChannelInfo: 0xfec 0 0 1 1 
+MaterialInitData 16: 0x10c8 
+TexGenCount: 0x1
+ColorChannelInfo: 0x10d4 0 0 1 1 
+MaterialInitData 17: 0x11b0 
+TexGenCount: 0x1
+ColorChannelInfo: 0x11bc 0 0 1 1 
+MaterialInitData 18: 0x1298 
+TexGenCount: 0x1
+ColorChannelInfo: 0x12a4 0 0 1 1 
+MaterialInitData 19: 0x1380 
+TexGenCount: 0x1
+ColorChannelInfo: 0x138c 0 0 1 1 
+MaterialInitData 20: 0x1468 
+TexGenCount: 0x1
+ColorChannelInfo: 0x1474 0 0 1 1 
+MaterialInitData 21: 0x1550 
+TexGenCount: 0x1
+ColorChannelInfo: 0x155c 0 0 1 1 
+MaterialInitData 22: 0x1638 
+TexGenCount: 0x1
+ColorChannelInfo: 0x1644 0 0 1 1 
+MaterialInitData 23: 0x1720 
+TexGenCount: 0x1
+ColorChannelInfo: 0x172c 0 0 1 1 
+MaterialInitData 24: 0x1808 
+TexGenCount: 0x1
+ColorChannelInfo: 0x1814 0 0 1 1 
+MaterialInitData 25: 0x18f0 
+TexGenCount: 0x1
+ColorChannelInfo: 0x18fc 0 0 1 1 
+MaterialInitData 26: 0x19d8 
+TexGenCount: 0x1
+ColorChannelInfo: 0x19e4 0 0 1 1 
+MaterialInitData 27: 0x1ac0 
+TexGenCount: 0x1
+ColorChannelInfo: 0x1acc 0 0 1 1 
+MaterialInitData 28: 0x1ba8 
+TexGenCount: 0x0
+ColorChannelInfo: 0x1bb4 0 0 1 1 
+MaterialInitData 29: 0x1c90 
+TexGenCount: 0x1
+ColorChannelInfo: 0x1c9c 0 0 1 1 
+MaterialInitData 30: 0x1d78 
+TexGenCount: 0x1
+ColorChannelInfo: 0x1d84 0 0 1 1 
+MaterialInitData 31: 0x1e60 
+TexGenCount: 0x0
+ColorChannelInfo: 0x1e6c 0 0 1 1 
+MaterialInitData 32: 0x1f48 
+TexGenCount: 0x1
+ColorChannelInfo: 0x1f54 0 0 1 1 
+MaterialInitData 33: 0x2030 
+TexGenCount: 0x1
+ColorChannelInfo: 0x203c 0 0 1 1 
+MaterialInitData 34: 0x2118 
+TexGenCount: 0x1
+ColorChannelInfo: 0x2124 0 0 1 1 
+MaterialInitData 35: 0x2200 
+TexGenCount: 0x1
+ColorChannelInfo: 0x220c 0 0 1 1 
+MaterialInitData 36: 0x22e8 
+TexGenCount: 0x1
+ColorChannelInfo: 0x22f4 0 0 1 1 
+MaterialInitData 37: 0x23d0 
+TexGenCount: 0x1
+ColorChannelInfo: 0x23dc 0 0 1 1 
+MaterialInitData 38: 0x24b8 
+TexGenCount: 0x1
+ColorChannelInfo: 0x24c4 0 0 1 1 
+MaterialInitData 39: 0x25a0 
+TexGenCount: 0x1
+ColorChannelInfo: 0x25ac 0 0 1 1 
+MaterialInitData 40: 0x2688 
+TexGenCount: 0x0
+ColorChannelInfo: 0x2694 0 0 1 1 
+MaterialInitData 41: 0x2770 
+TexGenCount: 0x1
+ColorChannelInfo: 0x277c 0 0 1 1 
+MaterialInitData 42: 0x2858 
+TexGenCount: 0x1
+ColorChannelInfo: 0x2864 0 0 1 1 
+MaterialInitData 43: 0x2940 
+TexGenCount: 0x1
+ColorChannelInfo: 0x294c 0 0 1 1 
+MaterialInitData 44: 0x2a28 
+TexGenCount: 0x1
+ColorChannelInfo: 0x2a34 0 0 1 1 
+MaterialInitData 45: 0x2b10 
+TexGenCount: 0x1
+ColorChannelInfo: 0x2b1c 0 0 1 1 
+MaterialInitData 46: 0x2bf8 
+TexGenCount: 0x1
+ColorChannelInfo: 0x2c04 0 0 1 1 
+MaterialInitData 47: 0x2ce0 
+TexGenCount: 0x1
+ColorChannelInfo: 0x2cec 0 0 1 1 
+MaterialInitData 48: 0x2dc8 
+TexGenCount: 0x1
+ColorChannelInfo: 0x2dd4 0 0 1 1 
+MaterialInitData 49: 0x2eb0 
+TexGenCount: 0x1
+ColorChannelInfo: 0x2ebc 0 0 1 1 
+MaterialInitData 50: 0x2f98 
+TexGenCount: 0x1
+ColorChannelInfo: 0x2fa4 0 0 1 1 
+MaterialInitData 51: 0x3080 
+TexGenCount: 0x1
+ColorChannelInfo: 0x308c 0 0 1 1 
+MaterialInitData 52: 0x3168 
+TexGenCount: 0x1
+ColorChannelInfo: 0x3174 0 0 1 1 
+MaterialInitData 53: 0x3250 
+TexGenCount: 0x1
+ColorChannelInfo: 0x325c 0 0 1 1 
+MaterialInitData 54: 0x3338 
+TexGenCount: 0x1
+ColorChannelInfo: 0x3344 0 0 1 1 
+MaterialInitData 55: 0x3420 
+TexGenCount: 0x1
+ColorChannelInfo: 0x342c 0 0 1 1 
+MaterialInitData 56: 0x3508 
+TexGenCount: 0x1
+ColorChannelInfo: 0x3514 0 0 1 1 
+MaterialInitData 57: 0x35f0 
+TexGenCount: 0x1
+ColorChannelInfo: 0x35fc 0 0 1 1 
+MaterialInitData 58: 0x36d8 
+TexGenCount: 0x1
+ColorChannelInfo: 0x36e4 0 0 1 1 
+MaterialInitData 59: 0x37c0 
+TexGenCount: 0x1
+ColorChannelInfo: 0x37cc 0 0 1 1 
+MaterialInitData 60: 0x38a8 
+TexGenCount: 0x1
+ColorChannelInfo: 0x38b4 0 0 1 1 
+MaterialInitData 61: 0x3990 
+TexGenCount: 0x1
+ColorChannelInfo: 0x399c 0 0 1 1 
+MaterialInitData 62: 0x3a78 
+TexGenCount: 0x1
+ColorChannelInfo: 0x3a84 0 0 1 1 
+MaterialInitData 63: 0x3b60 
+TexGenCount: 0x1
+ColorChannelInfo: 0x3b6c 0 0 1 1 
+MaterialInitData 64: 0x3c48 
+TexGenCount: 0x1
+ColorChannelInfo: 0x3c54 0 0 1 1 
+MaterialInitData 65: 0x3d30 
+TexGenCount: 0x1
+ColorChannelInfo: 0x3d3c 0 0 1 1 
+MaterialInitData 66: 0x3e18 
+TexGenCount: 0x1
+ColorChannelInfo: 0x3e24 0 0 1 1 
+MaterialInitData 67: 0x3f00 
+TexGenCount: 0x1
+ColorChannelInfo: 0x3f0c 0 0 1 1 
+MaterialInitData 68: 0x3fe8 
+TexGenCount: 0x1
+ColorChannelInfo: 0x3ff4 0 0 1 1 
+MaterialInitData 69: 0x40d0 
+TexGenCount: 0x1
+ColorChannelInfo: 0x40dc 0 0 1 1 
+MaterialInitData 70: 0x41b8 
+TexGenCount: 0x1
+ColorChannelInfo: 0x41c4 0 0 1 1 
+MaterialInitData 71: 0x42a0 
+TexGenCount: 0x1
+ColorChannelInfo: 0x42ac 0 0 1 1 
+MaterialInitData 72: 0x4388 
+TexGenCount: 0x1
+ColorChannelInfo: 0x4394 0 0 1 1 
+MaterialInitData 73: 0x4470 
+TexGenCount: 0x1
+ColorChannelInfo: 0x447c 0 0 1 1 
+MaterialInitData 74: 0x4558 
+TexGenCount: 0x1
+ColorChannelInfo: 0x4564 0 0 1 1 
+MaterialInitData 75: 0x4640 
+TexGenCount: 0x1
+ColorChannelInfo: 0x464c 0 0 1 1 
+MaterialInitData 76: 0x4728 
+TexGenCount: 0x1
+ColorChannelInfo: 0x4734 0 0 1 1 
+MaterialInitData 77: 0x4810 
+TexGenCount: 0x1
+ColorChannelInfo: 0x481c 0 0 1 1 
+MaterialInitData 78: 0x48f8 
+TexGenCount: 0x1
+ColorChannelInfo: 0x4904 0 0 1 1 
+MaterialInitData 79: 0x49e0 
+TexGenCount: 0x1
+ColorChannelInfo: 0x49ec 0 0 1 1 
+MaterialInitData 80: 0x4ac8 
+TexGenCount: 0x1
+ColorChannelInfo: 0x4ad4 0 0 1 1 
+MaterialInitData 81: 0x4bb0 
+TexGenCount: 0x1
+ColorChannelInfo: 0x4bbc 0 0 1 1 

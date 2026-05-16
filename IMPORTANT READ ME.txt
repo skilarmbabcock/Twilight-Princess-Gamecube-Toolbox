@@ -1,0 +1,1 @@
+Unfortunately do to a Windows update, you now have to disable Smart App Block in Virus and Threat protection or the helpers tools get flagged and won't run.

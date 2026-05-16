@@ -1,0 +1,7 @@
+{
+	"tphd_compatibility": false,
+	"material_order_strict": true,
+	"__vertextype": "Float32",
+	"vertextype": "Signed16",
+	"fraction": 7
+}

@@ -1,0 +1,9 @@
+### Models
+BMDL - Ordon Link
+Kmdl - Hero's Clothes
+Zmdl - Zora Armor
+Mmdl - Magic Armor
+Wmdl - Wolf Link
+alSumou - Sumo Link
+Alink - Links static items
+AlAnm - Link animations and rigged items

@@ -1,0 +1,1 @@
+Like Links Face, you will need to use _NoWeights_BoneName when converting.
